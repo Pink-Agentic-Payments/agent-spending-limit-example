@@ -1,0 +1,8 @@
+{
+  "name": "agent-spending-policy-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Minimal, provider-agnostic policy-check wrapper for an AI agent's pay tool.",
+  "license": "MIT",
+  "private": true
+}
