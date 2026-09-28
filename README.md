@@ -51,4 +51,4 @@ path that calls it).
 
 ## About
 
-Published by PinkWallet alongside the article [How to Give an AI Agent a Spending Limit](DEVTO_URL). PinkWallet is building Pink Agentic AI Payment, which enforces per-agent spending caps, allowlists and approval rules at the MCP layer, before a payment executes. It is in early access: https://pinkwallet.com/agentic/?utm_source=github&utm_campaign=spend-guard-example#early-access. This repo is a teaching example, not that product.
+Published by PinkWallet alongside the article [How to Give an AI Agent a Spending Limit](https://dev.to/quinn_854b15f517d8632ed4f/how-to-give-an-ai-agent-a-spending-limit-and-actually-enforce-it-before-it-pays-17nh). PinkWallet is building Pink Agentic AI Payment, which enforces per-agent spending caps, allowlists and approval rules at the MCP layer, before a payment executes. It is in early access: https://pinkwallet.com/agentic/?utm_source=github&utm_campaign=spend-guard-example#early-access. This repo is a teaching example, not that product.
