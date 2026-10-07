@@ -2,6 +2,8 @@
 
 Plain Node.js (ESM, no dependencies, no SDKs). Requires Node 18+.
 
+> **New:** can you make an AI agent overspend? Try our open challenge against the sandbox (test money only): [overspend-challenge](https://github.com/Pink-Agentic-Payments/overspend-challenge)
+
 ## Files
 
 - `policy.js` — the policy engine (`checkPolicy`) and an in-memory `SpendLedger`.
